@@ -9,9 +9,8 @@ Expanding on RedwoodJS world class documentation, this collection of pages bundl
 
  `https://redwoodjs.com/docs/introduction`
 
- While an Open Source project like RedwoodJS cannot hire as many technical writers as needed to maintain the current excellence in technical documentation - RedwoodJS has a huge potential in engaging its developers community.
+ While an Open Source project like RedwoodJS cannot hire as many technical writers as needed to maintain the _current_ excellence in technical documentation - RedwoodJS has a huge potential in engaging its developers community.
 
  `Testing and Debugging` online document is a novel concept - unlike the "main" documentation written mostly by RedwoodJS founders and core team members, it is a project that expects the participation of RedwoodJS contributors: (see `https://community.redwoodjs.com/t/proposal-testing-and-debugging-project/2923`)
 
 There is another novel approach - we are using the [RedwoodJS tutorial](https://redwoodjs.com/docs/tutorial/foreword) as the context to explain the various testing and debugging tools.
- 

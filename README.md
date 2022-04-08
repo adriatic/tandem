@@ -8,4 +8,4 @@ Besides the additional set of documents on Testing and Debugging, this project i
 
 ---
 
-_Coming soon: instruction for admins on how to build and deploy this app_
+_Coming soon: Site administrators accessible instructions on how to build and deploy this website_.
