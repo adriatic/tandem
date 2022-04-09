@@ -41,6 +41,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      // autoCollapseSidebarCategories: true,
       navbar: {
         title: 'RedwoodJS Community Library',
         items: [
