@@ -41,6 +41,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      onBrokenMarkdownLinks: 'ignore',
       // autoCollapseSidebarCategories: true,
       navbar: {
         title: 'RedwoodJS Community Library',
