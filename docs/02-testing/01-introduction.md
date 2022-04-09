@@ -6,7 +6,7 @@ sidebar-position: 1
 
 The concept of JavaScript testing is first explained in [RedwoodJS testing](https://redwoodjs.com/docs/testing) document, by using small snippets of JavaScript code and "run" them in [JSFiddle playground](https://jsfiddle.net/).
 
-This document is focused on **_application_** (as different from code snippets) testing, demonstrating scenarios more similar to "real life" sitiations. As stated in the [introduction chapter](docs/introduction.md) we use the [Tutorial](https://redwoodjs.com/docs/introduction) application as the subject of testing.
+This document is focused on **_application_** (as different from code snippets) testing, demonstrating scenarios more similar to "real life" sitiations. As stated in the [introduction chapter](https://rw-community.org/) we use the [Tutorial](https://redwoodjs.com/docs/introduction) application as the subject of testing.
 
 Most of the test will use [Jest](https://jestjs.io/) tool, and we will also demonstrate how to use [Wallaby](https://wallabyjs.com/) tool. See also [this](https://rw-community.org/tools/wallaby) article introducing wallaby in the context of RedwoodJS scenario.
 
