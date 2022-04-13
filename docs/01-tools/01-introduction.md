@@ -4,7 +4,8 @@ sidebar-position: 1
 
 # tools - introduction
 
-The tools section enumerates several software tools, starting with [chrome browser integrated development tool](https://rw-community.org/tools/chrome%20devtools), which are always present to "external" tools including:
+The tools section enumerates several software tools, starting with [chrome browser integrated development tool](https://rw-community.org/tools/chrome%20devtools), which is always present to "external" tools including:
+
 - [vscode](https://rw-community.org/tools/vscode)
 - [storybook](https://rw-community.org/tools/storybook)
 - [webstorm](https://rw-community.org/tools/webstorm)
