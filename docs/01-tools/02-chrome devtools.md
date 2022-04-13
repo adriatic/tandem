@@ -30,9 +30,9 @@ The screen shot below illustrates a typical case of using chrome developer tools
 
 where:
 
-- marker 1 points to the sources panel
-- marker 2 points to the root (web) folder of the sources hierarchy
-- marker 3 points to line in the HomePage where the breakpoint is set
-- marker 4 points to the (only) breakpoint set at this time
+- marker 1 points to the devtool `sources` panel.
+- marker 2 points to the `root (web)` folder of the sources hierarchy.
+- marker 3 points to line in the `HomePage` where the breakpoint is set.
+- marker 4 points to the (only) `breakpoint` set at this time.
 
 More about using `chrome developer tools` in the [testing](https://rw-community.org/testing/introduction) and [debugging](https://rw-community.org/debugging/introduction) chapters.
