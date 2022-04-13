@@ -20,7 +20,7 @@ There are a few other sections being ignored at this point.
 
 ## Example:
 
-The screen shot below illustrated a typical case of using chrome developer tools, where the breakpoint is set at the start of Home page of the Tutorial (Rewwood Blog) application
+The screen shot below illustrates a typical case of using chrome developer tools, where the breakpoint is set at the start of Home page of the Tutorial ([Redwood Blog](https://redwoodjs.com/docs/tutorial/foreword)) application
 
 <p align="center">
   <img width="800" src="https://user-images.githubusercontent.com/2712405/163086742-70bf8204-caed-462e-89ac-8090f4389778.png" />
