@@ -1,5 +1,6 @@
 ---
 sidebar-position: 2
+title: "chrome devtools"
 ---
 
 # chrome devtools

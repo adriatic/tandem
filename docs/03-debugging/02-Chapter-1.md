@@ -1,6 +1,6 @@
 ---
 sidebar-position: 2
-title: VSCode
+title: vscode
 ---
 
 # VSCode

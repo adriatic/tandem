@@ -1,5 +1,6 @@
 ---
 sidebar-position: 4
+title: "placeholder"
 ---
 
-# chapter 3
+# placeholder

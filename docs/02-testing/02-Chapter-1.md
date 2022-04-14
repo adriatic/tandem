@@ -1,5 +1,6 @@
 ---
 sidebar-position: 2
+title: jest
 ---
 
-# chapter 1
+# testing with jest
