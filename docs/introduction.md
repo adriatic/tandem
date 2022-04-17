@@ -5,15 +5,15 @@ slug: /
 
 #
 
-Expanding on RedwoodJS world class documentation, this collection of pages bundled under the title `Testing and Debugging` offers detailed views in using several standard tools that are used by JavaScript developers. The three sections `testing`, `debugging` and `cookbok` maintain the RedwoodJS' main online document set accessible via:
+Expanding on RedwoodJS world class documentation, this collection of pages bundled under the title `Testing and Debugging` offers detailed views in using several standard tools that are used by JavaScript developers. The three sections `testing`, `debugging` and `cookbok` expand the RedwoodJS' main online document set accessible via:
 
  `https://redwoodjs.com/docs/introduction`
 
  While an Open Source project like RedwoodJS cannot hire as many technical writers as needed to maintain the _current_ excellence in technical documentation - RedwoodJS has a huge potential in engaging its developers community.
 
- Creation of the [Testing and Debugging](https://rw-community.org/) online document is a novel concept - unlike the "main" documentation written mostly by RedwoodJS founders and core team members, it is a project that expects the participation of RedwoodJS contributors: (see `https://community.redwoodjs.com/t/proposal-testing-and-debugging-project/2923`)
+ Creation of the [Testing and Debugging](https://rw-community.org/) online document is a novel concept - unlike the "main" documentation written mostly by RedwoodJS founders and core team members, it is a project that expects the participation of RedwoodJS contributors: (see [this article](https://community.redwoodjs.com/t/proposal-testing-and-debugging-project/2923`) for details.
 
-There is another novel approach - we are using the [RedwoodJS tutorial](https://redwoodjs.com/docs/tutorial/foreword) as the context to explain the various testing and debugging tools.
+There is another novel approach - we are using the [RedwoodJS tutorial](https://redwoodjs.com/docs/tutorial/foreword) as the context to explain the various testing and debugging tools. In other words the same application that is being built from scratch following the instructions from the Redwood tutorial, is being used (in its source form) as content for running tests and debugging in this tutorial.
 
 Lastly, the material presented on this site assumes the familiarity with these introductory information from the original RedwoodJS online docs section on [Project Configuration: Dev, Test, Build](https://redwoodjs.com/docs/project-configuration-dev-test-build):
 
