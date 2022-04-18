@@ -54,6 +54,16 @@ const config = {
           },
           {to: '/blog', label: 'blog', position: 'left'},
           {
+            href: 'https://redwoodjs.com',
+            label: 'RedwoodJS',
+            position: 'right',
+          },
+          {
+            href: 'https://community.redwoodjs.com',
+            label: 'Redwood Community',
+            position: 'right',
+          },
+          {
             href: 'https://github.com/adriatic/tandem',
             label: 'GitHub',
             position: 'right',
