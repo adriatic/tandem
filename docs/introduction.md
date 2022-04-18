@@ -3,7 +3,12 @@ sidebar_position: 1
 slug: /
 ---
 
-#
+# Introduction
+
+_**Important note**: as explained in [this discusson](https://github.com/adriatic/tandem/issues/1#issuecomment-1101260396) with @jtoar, this docs site will drop the first section [Tools](https://rw-community.org/tools/introduction) - it will only exist the creation stage of this site. Similarly the second and third section will be likely be shrunk, to only contain the links to the [RedwoodJS docs](https://redwoodjs.com/docs/introduction)._ 
+
+---
+---
 
 Expanding on RedwoodJS world class documentation, this collection of pages bundled under the title `Testing and Debugging` offers detailed views in using several standard tools that are used by JavaScript developers. The three sections `testing`, `debugging` and `cookbok` expand the RedwoodJS' main online document set accessible via:
 
