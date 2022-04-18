@@ -5,12 +5,13 @@ slug: /
 
 # Introduction
 
-_**Important note**: as explained in [this discusson](https://github.com/adriatic/tandem/issues/1#issuecomment-1101260396) with @jtoar, this docs site will drop the first section [Tools](https://rw-community.org/tools/introduction) - it will only exist the creation stage of this site. Similarly the second and third section will be likely be shrunk, to only contain the links to the [RedwoodJS docs](https://redwoodjs.com/docs/introduction)._ 
+_**Important note**: as explained in [this discusson](https://github.com/adriatic/tandem/issues/1#issuecomment-1101260396) with this docs site will likely drop the [Tools](https://rw-community.org/tools/introduction) section - it will only exist the creation stage of this site. Similarly the [testing](https://rw-community.org/testing/introduction) and [debugging](https://rw-community.org/debugging/introduction) sections will be likely be shrunk to a few pagraphs, to establish links with similarly named sections in [
+    Redwood docs](https://redwoodjs.com/docs/introduction)._ 
 
 ---
 ---
 
-Expanding on RedwoodJS world class documentation, this collection of pages bundled under the title `Testing and Debugging` offers detailed views in using several standard tools that are used by JavaScript developers. The three sections `testing`, `debugging` and `cookbok` expand the RedwoodJS' main online document set accessible via:
+Expanding on RedwoodJS world class documentation, this collection of pages bundled under the title `Testing and Debugging` offers detailed views on [how to](https://rw-community.org/cookbook/introduction) use several standard [tools](https://rw-community.org/tools/introduction) that are used by JavaScript developers. Two sections`testing` and`debugging` expand the RedwoodJS' main online document set accessible via:
 
  `https://redwoodjs.com/docs/introduction`
 
