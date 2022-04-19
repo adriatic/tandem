@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Testing and Debugging',
   tagline: 'Redwood Community Docs',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://rw-community.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
