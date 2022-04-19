@@ -5,7 +5,7 @@ slug: /
 
 # Introduction
 
-_**Important note**: as explained in [this discusson](https://github.com/adriatic/tandem/issues/1#issuecomment-1101260396) with this docs site will likely drop the [Tools](https://rw-community.org/tools/introduction) section - it will only exist the creation stage of this site. Similarly the [testing](https://rw-community.org/testing/introduction) and [debugging](https://rw-community.org/debugging/introduction) sections will be likely be shrunk to a few pagraphs, to establish links with similarly named sections in [Redwood docs](https://redwoodjs.com/docs/introduction)._
+_**Important note**: as explained in [this discussson](https://github.com/adriatic/tandem/issues/1#issuecomment-1101260396) with this docs site will likely drop the [Tools](https://rw-community.org/tools/introduction) section - it will only exist the creation stage of this site. Similarly the [testing](https://rw-community.org/testing/introduction) and [debugging](https://rw-community.org/debugging/introduction) sections will be likely be shrunk to a few pagraphs, to establish links with similarly named sections in [Redwood docs](https://redwoodjs.com/docs/introduction)._
 
 ---
 ---
