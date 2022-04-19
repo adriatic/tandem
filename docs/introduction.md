@@ -12,7 +12,7 @@ _**Important note**: as explained in [this discussson](https://github.com/adriat
 
 Expanding on RedwoodJS world class documentation, this collection of pages bundled under the title `Testing and Debugging` offers detailed views on [how to](https://rw-community.org/cookbook/introduction) use several standard [tools](https://rw-community.org/tools/introduction) that are used by JavaScript developers. Two sections`testing` and `debugging` expand the RedwoodJS' [main online document set](https://redwoodjs.com/docs/introduction). 
 
-Since RedwoodJS needs to maintain the _current_ excellence in technical documentation, it is rather obvious that by _providing a formal infrastructure to its developers community_ to participate in the area of writing technical documents, will help reducing the load on core team.
+Since RedwoodJS needs to maintain the _current_ excellence in technical documentation, it is rather obvious that by _providing a formal infrastructure to its developers community_ to participate in the area of writing technical documents, will help reducing the load on Redwood core team.
 
 Creation of the [Testing and Debugging](https://rw-community.org/) online document is a novel concept - unlike the "main" documentation written mostly by RedwoodJS founders and core team members, it is a project that expects the participation of RedwoodJS contributors: (see [this article](https://community.redwoodjs.com/t/proposal-testing-and-debugging-project/2923`) for details.
 
