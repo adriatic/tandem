@@ -1,5 +1,5 @@
 ---
-title: "debugging intro"
+title: "introduction"
 sidebar-position: 1
 ---
 

@@ -1,6 +1,6 @@
 ---
 sidebar-position: 1
-title: testing intro
+title: introduction
 ---
 
 # testing - introduction
