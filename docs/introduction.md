@@ -10,17 +10,10 @@ _**Important note**: as explained in [this discussion](https://github.com/adriat
 ---
 ---
 
-Expanding on RedwoodJS world class documentation, this collection of pages bundled under the title `Testing and Debugging` offers detailed views on [how to](https://rw-community.org/cookbook/introduction) use several standard used by JavaScript developers. Two sections`testing` and `debugging` expand the RedwoodJS' [main online document set](https://redwoodjs.com/docs/introduction).
+Expanding on RedwoodJS existing documentation, this web site offers Redwood developers detailed exercises on `testing` and `debugging`. The  [how to](https://rw-community.org/cookbook/introduction) using several standard tools, placed in two sections. These sections [how to test](https://rw-community.org/how-to/testing/introduction) and [how to debug](https://rw-community.org/how-to/debugging/introduction) expand the RedwoodJS' existing [main online document set](https://redwoodjs.com/docs/introduction).
 
-Since RedwoodJS needs to maintain the _current_ excellence in technical documentation, it is rather obvious that by _providing a formal infrastructure to its developers community_ to participate in the area of writing technical documents, will help reducing the load on Redwood core team.
+No known startup company can afford to acquire sufficient number of writers to create as good documentation as it is expected for an excellent startup like RedwoodJS. However it is rather obvious that by _providing a formal infrastructure to its developers community_ to participate in the area of writing technical documents, will help reducing the load on Redwood core team, as well as allowing more application specific view of these documents.
 
-Creation of the [Testing and Debugging](https://rw-community.org/) online document is a novel concept - unlike the "main" documentation written mostly by RedwoodJS founders and core team members, it is a project that expects the participation of RedwoodJS contributors: (see [this article](https://community.redwoodjs.com/t/proposal-testing-and-debugging-project/2923`) for details.
+Organization and design of the [Testing and Debugging](https://rw-community.org/) online website is a novel concept. We are using the source code of the application being the subject of the [RedwoodJS tutorial](https://redwoodjs.com/docs/tutorial/foreword) as the context to explain the various testing and debugging tools. In other words the same application that is being built from scratch following the instructions from the Redwood tutorial, is being used (in its source form) as content for running tests and debugging in this tutorial.
 
-There is another novel approach - we are using the [RedwoodJS tutorial](https://redwoodjs.com/docs/tutorial/foreword) as the context to explain the various testing and debugging tools. In other words the same application that is being built from scratch following the instructions from the Redwood tutorial, is being used (in its source form) as content for running tests and debugging in this tutorial.
-
-Lastly, the material presented on this site assumes the familiarity with these introductory information from the original RedwoodJS online docs section on [Project Configuration: Dev, Test, Build](https://redwoodjs.com/docs/project-configuration-dev-test-build):
-
-- [jest](https://redwoodjs.com/docs/project-configuration-dev-test-build#jest)
-- [debugger configuration](https://redwoodjs.com/docs/project-configuration-dev-test-build#debugger-configuration)
-
-
+There is another novel approach - unlike the "main" documentation written mostly by RedwoodJS founders and core team members, it is a project that expects the participation of RedwoodJS contributors: (see [this article](https://community.redwoodjs.com/t/proposal-testing-and-debugging-project/2923`)) for details. The Docusarus based [website](https://rw-community.org) serves as the documentation framework, making the writers job nearly identical workflow using the core team developers. So each specific document in this site is added or modified as a PR.
