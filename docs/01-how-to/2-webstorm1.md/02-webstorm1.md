@@ -1,6 +1,6 @@
 ---
-title: "session 1"
+title: "WebStorm"
 sidebar-position: 1
 ---
 
-# session 1
+# WebStorm
