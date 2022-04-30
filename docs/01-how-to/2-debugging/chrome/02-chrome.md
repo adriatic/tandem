@@ -4,7 +4,9 @@ title: example 1
 ---
 
 
-# Example 1 - tracing the authentication code
+# Example 1
+
+### tracing the authentication code
 
 Follow the instructions in the [example-1](https://rw-community.org/how-to/debugging/chrome/chrome). Also have the [authentication](https://redwoodjs.com/docs/tutorial/chapter4/authentication) chapter in the [Redwood Tutorial](https://redwoodjs.com/docs/tutorial/foreword) ready, so you can trace through the code, using the explanations from both [Tandem](https://rw-community.org/how-to/debugging/introduction) and [Redwood](https://redwoodjs.com/docs/tutorial/foreword) tutorials.
 
