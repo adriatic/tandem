@@ -1,12 +1,13 @@
 ---
 sidebar-position: 2
+title: example 1
 ---
 
 ## Example 1 - tracing the authentication code
 
 ### The workflow
 
-Follow the instructions in the [example-1](https://rw-community.org/how-to/debugging/chrome/example-1). Also have the [authentication](https://redwoodjs.com/docs/tutorial/chapter4/authentication) chapter in the [Redwood Tutorial](https://redwoodjs.com/docs/tutorial/foreword) ready, so you can trace through the code, using the explanations from both tandem and Redwood tutorials.
+Follow the instructions in the [example-1](https://rw-community.org/how-to/debugging/chrome/chrome). Also have the [authentication](https://redwoodjs.com/docs/tutorial/chapter4/authentication) chapter in the [Redwood Tutorial](https://redwoodjs.com/docs/tutorial/foreword) ready, so you can trace through the code, using the explanations from both tandem and Redwood tutorials.
 
 ---
 
