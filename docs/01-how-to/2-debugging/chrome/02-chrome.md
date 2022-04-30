@@ -8,7 +8,7 @@ title: example 1
 
 ### tracing the authentication code
 
-Follow the instructions in the [example-1](https://rw-community.org/how-to/debugging/chrome/chrome). Also have the [authentication](https://redwoodjs.com/docs/tutorial/chapter4/authentication) chapter in the [Redwood Tutorial](https://redwoodjs.com/docs/tutorial/foreword) ready, so you can trace through the code, using the explanations from both [Tandem](https://rw-community.org/how-to/debugging/introduction) and [Redwood](https://redwoodjs.com/docs/tutorial/foreword) tutorials.
+Have the [authentication](https://redwoodjs.com/docs/tutorial/chapter4/authentication) chapter in the [Redwood Tutorial](https://redwoodjs.com/docs/tutorial/foreword) ready, so you can trace through the code, using the explanations from both [Tandem](https://rw-community.org/how-to/debugging/introduction) and [Redwood](https://redwoodjs.com/docs/tutorial/foreword) tutorials.
 
 ---
 ---
@@ -34,8 +34,15 @@ If you are curious what all happens in the process of building this application 
 <br/>
 
 
-## Running the app in the Chrome browser
+## Running the app 
+#### in the Chrome browser
 
-Step through the code of the [Authentication chapter](https://redwoodjs.com/docs/tutorial/chapter4/authentication).
+The plan is to step through the code of the [Authentication chapter](https://redwoodjs.com/docs/tutorial/chapter4/authentication). In order to get there, let's get to the basic setup:
 
+- Start the application from the terminal window
+- Open the browser's Developer Tools window
+<img width="918" alt="image" src="https://user-images.githubusercontent.com/2712405/166124153-eb3ca0ac-1054-45cf-b9e1-5143323fcfc5.png"/>
 
+Then, traverse the "application tree" to reach the `HomePage.js` (yellow marker 3) and set the breakpoint at line 5 (yellow marker 4). At that point restart the browser and observe that the "built in Chrome debugger" reached the brakpoint (yellow marker 5)
+
+<img width="1231" alt="image" src="https://user-images.githubusercontent.com/2712405/166124289-5642d716-944f-4f4f-b463-ef83d4be710a.png"/>
