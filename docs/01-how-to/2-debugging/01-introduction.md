@@ -7,12 +7,12 @@ sidebar-position: 1
 
 This chapter enumerates the set of tools used in process of debugging RedwoodJS application. Some of these tools are also used in testing tasks ()
 
-- [chrome development tools](https://rw-community.org/tools/introduction)
-- [vscode](https://rw-community.org/tools/vscode)
-- [storybook](https://rw-community.org/tools/storybook)
-- [webstorm](https://rw-community.org/tools/webstorm)
-- [wallaby](https://rw-community.org/tools/wallaby)
-- [jest](https://rw-community.org/tools/jest)
+- [chrome development tools](https://developer.chrome.com/docs/devtools)
+- [vscode](https://code.visualstudio.com/)
+- [storybook](https://storybook.js.org/docs/react/get-started/introduction)
+- [webstorm](https://www.jetbrains.com/webstorm)
+- [wallaby](https://wallabyjs.com/)  (this tool used in testing and debugging)
+- [jest](https://jestjs.io/)
 
 ---
 
