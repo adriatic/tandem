@@ -12,3 +12,5 @@ The two main section of this online documentation site are
 - The two sections [testing](https://rw-community.org/testing/introduction), [debugging]() extend the RedwoodJS' [main online document](https://redwoodjs.com/docs/introduction).
 
 ---
+
+Please see the [`issues`](https://github.com/adriatic/tandem/issues) collection to find out details on how to build and deploy this application
