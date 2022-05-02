@@ -1,6 +1,6 @@
 ---
 title: "storybook setup"
-sidebar-position: 6
+sidebar-position: 1
 ---
 
 # storybook setup
