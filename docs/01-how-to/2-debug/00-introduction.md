@@ -22,7 +22,7 @@ The other sections in [this chapter](https://rw-community.org/debugging/introduc
 <p align="center">
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/2712405/168622826-6441f0f3-30e2-4086-9938-192a70458de1.png"/>
 <br/>
-<b></b>
+<b>Image 1 - main branch of the Redwood Blog app</b>
 </p>
 <br/>
 
