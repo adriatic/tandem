@@ -16,8 +16,14 @@ This chapter enumerates the set of tools used in process of debugging RedwoodJS 
 
 ---
 
-The other sections in [this chapter](https://rw-community.org/debugging/introduction) describe the use of [various tools](https://rw-community.org/tools/introduction) in the process of debugging various problems defined in the [tandem-tutorial-samples](https://github.com/adriatic/tandem-tutorial-samples) branches
+The other sections in [this chapter](https://rw-community.org/debugging/introduction) describe the use of [various tools](https://rw-community.org/tools/introduction) in the process of debugging various problems defined in the [Redwood Blog](https://github.com/adriatic/RedwoodBlog) branches
 
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/2712405/164252506-1c176aac-7103-43ee-ab86-ba36003d2e9f.png" />
 
-**Note**: at the moment there is just one, main branch which is the  clone of the end state after completing the [RedwoodJS introduction tutorial](https://github.com/redwoodjs/redwood-tutorial).
+<p align="center">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/2712405/168622826-6441f0f3-30e2-4086-9938-192a70458de1.png"/>
+<br/>
+<b></b>
+</p>
+<br/>
+
+**Note**: at the moment there is just one, main branch beeing a **clone** of the [Redwood Blog](https://github.com/adriatic/RedwoodBlog). Additionally added branches will "host" various copies of the app in the main branch, modified to introduce bugs which will be in the focus of demonstrating debugging scenarios.

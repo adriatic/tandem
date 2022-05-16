@@ -53,3 +53,4 @@ Then, traverse the "application tree" to reach the `HomePage.js` (yellow marker 
 <b>Image 3 - Setting a breakpoint</b>
 </p>
 <br/>
+

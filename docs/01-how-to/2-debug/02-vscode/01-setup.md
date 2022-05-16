@@ -3,6 +3,8 @@ title: "vscode setup"
 sidebar-position: 1
 ---
 
+# this page us not finished
+
 # visual studio code setup
 
 
