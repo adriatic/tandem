@@ -39,3 +39,4 @@ The plan is to step through the code of the [Authentication chapter](https://red
 Then, traverse the "application tree" to reach the `HomePage.js` (yellow marker 3) and set the breakpoint at line 5 (yellow marker 4). At that point restart the browser and observe that the "built in Chrome debugger" reached the brakpoint (yellow marker 5)
 
 <img width="1231" alt="image" src="https://user-images.githubusercontent.com/2712405/166124289-5642d716-944f-4f4f-b463-ef83d4be710a.png"/>
+
