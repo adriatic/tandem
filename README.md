@@ -13,4 +13,6 @@ The two main section of this online documentation site are
 
 ---
 
+Note the issue [The name of this repo should be Redwood Blog](https://github.com/redwoodjs/redwood-tutorial/issues/51) reported against [redwood tutorial](https://github.com/redwoodjs/redwood-tutorial) application repository
+
 Please see the [`Building and running the tandem application`](https://github.com/adriatic/tandem/issues/6) collection to find out details on how to build and deploy this application
