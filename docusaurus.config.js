@@ -73,7 +73,7 @@ const config = {
       footer: {
         style: 'dark',
  
-        copyright: `Copyright © ${new Date().getFullYear()} Tandem, built with Docusaurus, on 05/15/2022` 
+        copyright: `Copyright © ${new Date().getFullYear()} Tandem, built with Docusaurus on May 16, 2022` 
       },
       prism: {
         theme: lightCodeTheme,
