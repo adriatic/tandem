@@ -3,9 +3,9 @@ sidebar-position: 2
 title: devtools setup
 ---
 
-### 1. Prepare the application used as model (debugging target)
+### 1. Prepare the debugging target
 
-To explain the use of debugging tools in a debugging task, we need an application (to be debugged). Reducing the application to a code snippet is not nearly as good approach, since the whole application's context plays a signiticant role.
+To explain the use of debugging tools in a debugging task, we need an application to be debugged. Reducing the application to a code snippet is not nearly as good approach, since the whole application's context plays a signiticant role.
 
 Rather than creating such application with sufficient complexity needed to illustrate debugging practices, chosing the well known application that was built in the course of the [Redwood Tutorial](https://redwoodjs.com/docs/tutorial/foreword) improves the learning experience. This prebuilt application (Redwood Blog) exists
  [in this repository](https://github.com/adriatic/redwoodblog). Make a local clone, using the instructions defined in [using the example repo](https://redwoodjs.com/docs/tutorial/intermission#using-the-example-repo-recommended)
@@ -29,9 +29,9 @@ resulting with:
 
 ---
 
-### 2. Start debugging the app
+### 2. Start tracing the app
 
-As the vry first experience, we will step through the code of the [Authentication chapter](https://redwoodjs.com/docs/tutorial/chapter4/authentication). This exercise will introduce the basic steps of a debugger: 
+As the very first experience, we will step through the `auth.js` code defined [here](https://github.com/adriatic/RedwoodBlog/blob/main/api/src/functions/auth.js) and described in the [Authentication chapter](https://redwoodjs.com/docs/tutorial/chapter4/authentication) of Redwood Tutorial.  This exercise will introduce several basic steps of a debugger in a context where we are not looking for a problem, but rather to view in a "step by step" fashion the application's behavior in the authentication process.
 
 - View the application's source code
 - Set and remove breakpoints
@@ -64,3 +64,6 @@ Then, traverse the "application tree" to reach the `HomePage.js` (yellow marker 
 </p>
 <br/>
 
+**Note**: the term `set the breakpoint` refers to a mouse click on the location indicated by the yellow marker 4.
+
+---

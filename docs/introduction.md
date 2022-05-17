@@ -60,4 +60,4 @@ Testing and debugging with WebStorm IDE
 <img width="360" alt="image" src="https://user-images.githubusercontent.com/2712405/165114504-1bce9947-3621-467f-bb5e-e226081f3302.png"/>clear
 </p>
 
-At this point (`jest` selected) the guided tutorial explaining testing with `jest` begins with the selection of the example to test. This selection is provided by this (tandem) application which knows to extract the relevant set of source code samples from
+At this point (`jest` selected) the guided tutorial explaining testing with `jest` begins with the selection of the example to test. This selection is provided by this (tandem) application which knows where to extract the relevant set of source code samples from.
