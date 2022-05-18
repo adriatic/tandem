@@ -1,18 +1,19 @@
 # tandem
 
-This website with the title `Redwood Testing and Debugging`, presents detailed information about using several [standard tools](https://rw-community.org/tools/introduction) most often used in Redwood application development process. This project is the first in the series written by RedwoodJS contributors, enabling faster improvement of the core product by leaving the core team in charge of "only" the core product.
+This website with the title `Redwood Testing and Debugging`, presents detailed information about several [standard tools](https://rw-community.org/tools/introduction) most often used in Redwood application development process. This project is the first in the series written by RedwoodJS contributors, enabling faster improvement of the core product by leaving the core team in charge of "only" the core product (the word only in quotation marks is an attempt to jokingly state how the core team is already making miracles.)
 
 The two main section of this online documentation site are
 
-- [how  to debug](https://rw-community.org/how-to/debugging/introduction)
+- [debug](https://rw-community.org/how-to/debug/introduction)
 
-- [how to test]()
-(https://rw-community.org/how-to/introduction) that contains a lot of information on both subjects (testing and debugging) in the title of this site.
+- [test](https://rw-community.org/how-to/test/introduction)
 
-- The two sections [testing](https://rw-community.org/testing/introduction), [debugging](https://rw-community.org/how-to/debug/introduction) extend the RedwoodJS' [main online document](https://redwoodjs.com/docs/introduction).
+contain information on both subjects (testing and debugging) in the context of Redwood applications development
+
+These two sections extend the RedwoodJS' [main online documents](https://redwoodjs.com/docs/introduction).
 
 ---
 
-Note the issue [The name of this repo should be Redwood Blog](https://github.com/redwoodjs/redwood-tutorial/issues/51) reported against [redwood tutorial](https://github.com/redwoodjs/redwood-tutorial) application repository
+Site maintainers: please see the [`Building and running the tandem application`](https://github.com/adriatic/tandem/issues/6) collection to find out details on how to build and deploy this application.
 
-Please see the [`Building and running the tandem application`](https://github.com/adriatic/tandem/issues/6) collection to find out details on how to build and deploy this application
+---

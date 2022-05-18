@@ -26,4 +26,6 @@ The other sections in [this chapter](https://rw-community.org/debugging/introduc
 </p>
 <br/>
 
-**Note**: at the moment there is just one, main branch beeing a **clone** of the [Redwood Blog](https://github.com/adriatic/RedwoodBlog). Additionally added branches will "host" various copies of the app in the main branch, modified to introduce bugs which will be in the focus of demonstrating debugging scenarios.
+**Note**: at the moment there is just one, main branch beeing a **clone** of the [Redwood Blog](https://github.com/adriatic/RedwoodBlog). Additionally added branches will host various copies of the app in the main branch, modified to introduce bugs, which will be the focus of demonstrating debugging scenarios.
+
+---
