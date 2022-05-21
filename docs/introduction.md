@@ -8,7 +8,7 @@ ___
 
 # Warning
 
-### After getting the first feedback from Redwood community members on May 18, 2022, it become apparent that the Tandem project is all about Testing and Debugging. To correct that perception we are stating the right one: we are building a Redwood Cookbook where debugger is not the only tool in the developers tool box.
+#### After getting the first feedback from Redwood community members on May 18, 2022, it become apparent that the Tandem project is understood as a Testing and Debugging tutorial. To correct that perception we are stating the right one: we are building a Redwood Cookbook where debugger is not the only tool in the developers tool box.
 
 This application is being be recreated in the format similar to [how To](https://redwoodjs.com/docs/how-to/index) section of the Redwood Tutorial.
 
