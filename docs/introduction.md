@@ -4,16 +4,28 @@ slug: /
 title: Tandem
 ---
 
+___
+
+# Warning
+
+### After getting the first feedback from Redwood community members on May 18, 2022, it become apparent that the Tandem project is all about Testing and Debugging. To correct that perception we are stating the right one: we are building a Redwood Cookbook where debugger is not the only tool in the developers tool box.
+
+This application is being be recreated in the format similar to [how To](https://redwoodjs.com/docs/how-to/index) section of the Redwood Tutorial.
+
+___
+___
+___
+
 ### _Testing and debugging_ of Redwood applications
 
-1. [Tandem](https://rw-community.org/) tutorial application presents various articles on testing and debugging. Well known [Redwood Blog](https://github.com/adriatic/RedwoodBlog) application is used as the model for all testing and debugging techniques explained in this course. 
+1. [Tandem](https://rw-community.org/) tutorial application presents various articles on testing and debugging. Well known [Redwood Blog](https://github.com/adriatic/RedwoodBlog) application is used as the model for all testing and debugging techniques explained in this course.
 
 2. Both [RedwoodJS tutorial](https://redwoodjs.com/docs/tutorial/foreword) and the [Tandem tutorial](https://rw-community.org/) are RedwoodJS applications. The **first** shows you how to build your first RWJS app (Redwood Blog) - and the **second** one presents testing and debugging methods using  the Redwood Blog app as the application to test and debug.
 
 A typical debugging session is shown on the image below
 
 <p align="center">
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/2712405/167678372-99cd74f1-c41d-4538-8716-c23e7c52ca26.png"/>
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/2712405/167678372-99cd74f1-c41d-4538-8716-c23e7c52ca26.png"/>
 <br/>
 <b>Image 1 - debugger and debugee</b>
 </p>
