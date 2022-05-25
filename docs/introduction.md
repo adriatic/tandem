@@ -12,5 +12,6 @@ ___
 
 To correct that perception, we are stating the right one: we are building a Redwood Cookbook where debugger is not the only tool in the developers tool box, and tracing Redwood Blog sections are not the only tutorials.
 
+
 ___
 ___
